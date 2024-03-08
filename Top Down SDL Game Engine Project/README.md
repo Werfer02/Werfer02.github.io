@@ -4,4 +4,4 @@ note: sprite files need to be in same directory as executable build for it to wo
 
 note: sdl2 and sdl2-image need to be set up for source to compile
 
-note: sprite files and Simplex noise header and source need to be included for source to compile
+note: sprite files and Simplex noise header needs to be included for source to compile
