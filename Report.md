@@ -24,3 +24,7 @@ Another thing is that while I know the materials we were given being not so reat
 
 I (obviously) really enjoyed the company funded breakfast fry.\
 I also think that the python workshop was very educational as I have very little experience working on someone else's project / code.
+
+### Friday 
+
+
