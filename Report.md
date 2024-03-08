@@ -12,7 +12,7 @@ While i had (tried) to use github before it was pretty useless without knowledge
 \
 I also really enjoyed the micro:bit programming activity because i like working with limitations and coming up with unique solutions.\
 Also seeing visual feedback from my program was 
-very motivating.\
+very motivating.
 
 
 ### Wednesday
