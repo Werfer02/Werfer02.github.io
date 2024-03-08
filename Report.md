@@ -30,10 +30,15 @@ I really liked the car bot programming, especially the communication aspect betw
 I had thought of similar things before but I never had the chance to actually make and use them, so this was a great learning experience.
 While we did not win the race it was still very fun to work on a project like this\
 
-Also the free pizza was very nice.\
-\
+Also the free pizza was very nice.
+
 
 ## General impressions / conclusions
 
+Regarding THE question:\
+Yes, I think I would like to work in this industry
 
+Throughout this week I was not met with a single task or activity that I could say I didnt enjoy doing.\
+Both the working conditions and (from what I know) the work being done seem very interesting to me.\
 
+All I can say, I hope this isnt the last time I see the shadowman coming into work.
