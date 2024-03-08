@@ -21,5 +21,3 @@ While I enjoyed Wednesday's Team-builfing activity, I felt a little lost after a
 Another thing is that while I know the materials we were given being not so reat for the task was intended, I feel like the activity could have been more egaging if we were given slightly more fitting materials.
 
 ### Thursday 
-
-i said the word
