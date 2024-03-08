@@ -41,4 +41,4 @@ Yes, I think I would like to work in this industry
 Throughout this week I was not met with a single task or activity that I could say I didnt enjoy doing.\
 Both the working conditions and (from what I know) the work being done seem very interesting to me.\
 
-All I can say, I hope this isnt the last time I see the shadowman coming into work.
+All I can say, I hope this isnt the last time I get to wear the red fedora.
