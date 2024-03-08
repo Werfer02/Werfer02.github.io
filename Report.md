@@ -26,4 +26,9 @@ I also think that the python workshop was very educational as I had little prior
 
 ### Friday 
 
+I really liked the car bot programming, especially the communication aspect between the remote microbit and the microbit controlling the car.\
+I had thought of similar things before but I never had the chance to actually make and use them, so this was a great learning experience.
+
+Also the free pizza was very nice.
+
 
