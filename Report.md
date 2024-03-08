@@ -21,3 +21,6 @@ While I enjoyed Wednesday's Team-builfing activity, I felt a little lost after a
 Another thing is that while I know the materials we were given being not so reat for the task was intended, I feel like the activity could have been more egaging if we were given slightly more fitting materials.
 
 ### Thursday 
+
+I (obviously) really enjoyed the company funded breakfast fry.\
+I also think that the python workshop was very educational as I have very little experience working on someone else's project / code.
