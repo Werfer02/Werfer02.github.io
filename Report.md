@@ -41,4 +41,6 @@ Yes, I think I would like to work in this industry
 Throughout this week I was not met with a single task or activity that I could say I didnt enjoy doing.\
 Both the working conditions and (from what I know) the work being done seem very interesting to me.\
 
-All I can say, I hope this isnt the last time I get to wear the red fedora.
+Overall, I'm greatly satisfied with this experience and I'd love to come back in the future.
+
+
